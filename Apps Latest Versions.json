@@ -1,3 +1,9 @@
 {
-  "ArcanePopLatestVersion": "1.0.5"
+  "apps": [
+    {
+      "name": "ArcanePop",
+      "version": "0.984",
+      "forceUpdate": false
+    }
+  ]
 }
