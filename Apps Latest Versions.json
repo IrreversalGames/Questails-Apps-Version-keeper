@@ -2,7 +2,7 @@
   "apps": [
     {
       "name": "ArcanePop",
-      "version": "0.9.9",
+      "version": "1.0.0",
       "forceUpdate": false
     }
   ]
